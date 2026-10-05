@@ -1,0 +1,5 @@
+account 账户
+bankruptcy 破产
+inflation 通货膨胀
+revenue 收益；税收
+portfolio 投资组合
